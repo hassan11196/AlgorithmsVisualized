@@ -14,11 +14,11 @@ Visualizations :
 
 ### Breadth First Search
 
-![](\gifs\breadth_first_search.gif)
+![](breadth_first_search.gif)
 
 ### A Star
 
-![](\gifs\A_star.gif)
+![](A_star.gif)
 
 
 
